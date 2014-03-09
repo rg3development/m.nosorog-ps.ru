@@ -1,0 +1,26 @@
+#
+# Ignore Netbeans
+#
+nbproject
+
+*.bz2
+*.gz
+*.jsp
+*.log
+*.bak
+*.mwb.bak
+*~
+
+# Internal server config. Unique for all hosts.
+*.local.ini
+*.local.xml
+
+# MacOS/wind0ze db files
+.DS_Store
+Thumbs.db
+
+/application/config/cms_config.php
+/application/config/cms_constants.php
+/system
+/www/upload
+/www/robots.txt
